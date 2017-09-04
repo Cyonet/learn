@@ -18,3 +18,8 @@ git commit -m '初始化'
 git remote add origin -u xxxxx
 git push origin master
 ```
+
+文件对比
+```
+git diff README.md
+```
